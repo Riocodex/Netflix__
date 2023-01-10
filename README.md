@@ -1,2 +1,7 @@
-first i went to tmdb.com to get an api key..this is my api key
-https://api.themoviedb.org/3/movie/550?api_key=a953a775e07df611473713ce00495fb0
+This is a basic netflix clone built with [`react js`](https://reactjs.org/) 
+I created the front end with reactjs and css while i used
+## Getting Started
+First run the development server
+```bash
+npm run start
+```
